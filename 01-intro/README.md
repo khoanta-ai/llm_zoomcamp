@@ -1,3 +1,8 @@
+## Preparing the Environment
+```
+pip install tqdm notebook==7.1.2 openai elasticsearch pandas scikit-learn
+```
+
 ## Opensource can be replaced for OpenAI API
 ### Ollama - Running LLMs on a CPU
 #### Docker
